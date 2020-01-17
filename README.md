@@ -1,20 +1,12 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Dicee 🎲
 
-## Our Goal
+## Main Goal
+Initiate on the dart core programming concepts, especially the use of setState() inside Stateful Flutter widgets.
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
+## Project description
+Make a Las Vegas dice app, where user can make the die roll at the press of a button.
 
-
-## What you will create
-
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
-
-## What you will learn
+## Acquired knowledge
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
@@ -26,6 +18,13 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Some screen captures
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+### Screen 1
+![](https://github.com/ivanseibel/assets/blob/master/img/dicee/Screenshot_1579299545.png)
+
+### Screen 2
+![](https://github.com/ivanseibel/assets/blob/master/img/dicee/Screenshot_1579299557.png)
+
+### Screen 3
+![](https://github.com/ivanseibel/assets/blob/master/img/dicee/Screenshot_1579299563.png)
